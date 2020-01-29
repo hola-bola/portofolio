@@ -120,6 +120,17 @@ body {
         margin: 0 auto;
         margin-bottom: 30px;
     }
+    h5 {
+        font-size: 2.5rem;
+        font-family: 'Source Sans Pro', sans-serif;
+        color: rgba(113, 169, 247, 1);
+        font-weight: 300;
+    }
+    p {
+        font-size: 1.5rem;
+        font-family: 'Open Sans', sans-serif;
+        font-style: italic;
+    }
 }
 
 .title {
@@ -144,6 +155,10 @@ h5 {
     }
     div {
         padding: 10px;
+    }
+    i {
+        font-size: 9rem;
+        color: white;
     }
 }
 
