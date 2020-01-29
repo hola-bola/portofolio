@@ -139,14 +139,24 @@ h5 {
   height: 60vh;
 }
 #skills h2 {
-  padding-top: 50px;
-}
-#skills div {
-  padding: 10px;
+  padding: 70px 0;
 }
 #skills i {
-  font-size: 9rem;
+  font-size: 8rem;
   color: white;
+  padding: 0 20px;
+}
+#skills h5 {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #71a9f7;
+  font-weight: 300;
+}
+#skills .col-md-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: none;
+  padding: none;
 }
 
 #media {
