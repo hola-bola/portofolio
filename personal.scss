@@ -115,6 +115,8 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
+    z-index: -1;
+    position: relative;
     h2 {
         color: white;
         margin: 0 auto;
